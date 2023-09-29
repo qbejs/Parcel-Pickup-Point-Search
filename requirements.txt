@@ -7,7 +7,7 @@ xmltodict~=0.13.0
 fastapi-users[sqlalchemy]
 aiosqlite
 SQLAlchemy~=1.4.46
-pydantic~=1.10.4
+pydantic~=2.4.0
 python-dotenv~=0.21.0
 loguru
 starlette>=0.25.0 # not directly required, pinned by Snyk to avoid a vulnerability
