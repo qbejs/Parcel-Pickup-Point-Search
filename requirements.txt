@@ -3,7 +3,7 @@ uvicorn
 elasticsearch[async]~=8.5.3
 aiohttp~=3.9.0
 asyncio~=3.4.3
-xmltodict~=0.13.0
+xmltodict~=0.15.0
 fastapi-users[sqlalchemy]
 aiosqlite
 SQLAlchemy~=1.4.46
